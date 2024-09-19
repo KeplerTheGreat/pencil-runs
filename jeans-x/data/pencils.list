@@ -1,0 +1,23 @@
+ Pencils requested:
+          12 glnrho          
+          14 uglnrho         
+          40 fpres           
+          50 cs2             
+          99 divu            
+         106 uij             
+         107 uu              
+         112 ugu             
+         179 gpotself        
+ 
+ Pencils requested for diagnostics:
+          10 rho             
+          11 rho1            
+         105 u2              
+         107 uu              
+ 
+ Pencils requested for 2-D diagnostics:
+           9 lnrho           
+          10 rho             
+          11 rho1            
+ 
+ Pencils requested video output
