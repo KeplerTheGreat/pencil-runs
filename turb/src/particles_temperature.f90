@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/particles_temperature.f90

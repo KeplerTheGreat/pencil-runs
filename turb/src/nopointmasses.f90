@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/nopointmasses.f90

@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/initcond.f90

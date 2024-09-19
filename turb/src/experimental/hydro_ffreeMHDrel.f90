@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/experimental/hydro_ffreeMHDrel.f90

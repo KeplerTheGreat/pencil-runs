@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/special.f90

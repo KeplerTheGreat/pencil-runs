@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/magnetic/meanfield_demfdt.f90

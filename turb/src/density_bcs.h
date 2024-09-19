@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/density_bcs.h

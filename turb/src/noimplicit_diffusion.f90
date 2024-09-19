@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/noimplicit_diffusion.f90

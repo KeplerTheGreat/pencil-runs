@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/bin/run.csh

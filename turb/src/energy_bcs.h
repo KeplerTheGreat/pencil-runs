@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/energy_bcs.h

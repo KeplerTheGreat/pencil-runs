@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/testfield_axisym.f90

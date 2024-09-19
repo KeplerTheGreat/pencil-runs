@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/nohyperresi_strict.f90

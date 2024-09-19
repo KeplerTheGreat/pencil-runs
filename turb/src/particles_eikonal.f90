@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/particles_eikonal.f90

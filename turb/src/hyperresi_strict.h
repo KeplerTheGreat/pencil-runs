@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/hyperresi_strict.h

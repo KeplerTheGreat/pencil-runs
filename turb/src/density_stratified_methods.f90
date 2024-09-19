@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/density_stratified_methods.f90

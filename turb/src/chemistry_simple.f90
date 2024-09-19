@@ -1,1 +1,0 @@
-/home/lulu/pencil-code/src/chemistry_simple.f90
