@@ -1,0 +1,1 @@
+/home/lulu/pencil-code/src/solid_cells.h
